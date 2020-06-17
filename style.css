@@ -147,3 +147,9 @@ marquee {
     margin-top: -7vw;
     margin-left: 1vw;
 }
+
+
+
+  @media screen and (max-width: 600px) {
+
+}

@@ -70,7 +70,7 @@ marquee {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    margin-top: -15vw;
+    margin-top: -10vw;
   
     
 }
@@ -88,7 +88,7 @@ marquee {
 
 .name2 {
     margin-left: -16vw;
-    margin-top: -10vw;
+    margin-top: -5vw;
     font-family:Freestyle Script;
     font-size: 4vw;
     color: red;

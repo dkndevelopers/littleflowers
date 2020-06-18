@@ -81,7 +81,7 @@ marquee {
     margin-right: -3vw;
     font-family:Freestyle Script;
     font-size: 4vw;
-    color: red;
+    color: yellow;
     text-shadow: 1px 1px black;
 }
 
@@ -91,7 +91,7 @@ marquee {
     margin-top: -2vw;
     font-family:Freestyle Script;
     font-size: 4vw;
-    color: red;
+    color: yellow;
     text-shadow: 1px 1px black;
 }
     
@@ -100,9 +100,9 @@ marquee {
     
     margin-right: -28vw;
     margin-top: -3vw;
-       font-family:Freestyle Script;
+    font-family:Freestyle Script;
     font-size: 4vw;
-    color: red;
+    color: yellow;
     text-shadow: 1px 1px black;
 }
 

@@ -130,7 +130,23 @@ marquee {
 }
 
 
+.message {
+    margin-top: 20vw;
+    font-size: 1vw;
+    background-color: black;
+    color: white;
+   
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    text-align: center;
+}
 
+.contact {
+    font-size: 0.6vw;
+    color: white;
+    margin-top: -7vw;
+    margin-left: 1vw;
+}
 
 
 

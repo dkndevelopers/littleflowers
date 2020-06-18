@@ -72,7 +72,7 @@ marquee {
     text-align: center;
     margin-top: 10vw;
     background-color: #cc9900;
-    padding-bottom: 30vw;
+    padding-bottom: 20vw;
     margin-left: 20vw;
     margin-right: 20vw;
     
@@ -101,8 +101,8 @@ marquee {
 
 .name3 {
     
-    margin-left: 28vw;
-    margin-top: -3vw;
+    margin-left: 18vw;
+    margin-top: -4vw;
     font-family:Freestyle Script;
     font-size: 4vw;
     color: yellow;

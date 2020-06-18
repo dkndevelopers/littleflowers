@@ -57,11 +57,11 @@ marquee {
     
     margin-top: -10000vw;
     
-    font-size: 2vw;
+    font-size: 3vw;
     z-index: 1;
    background-color: #996633;
-    padding-top: 1.7vw;
-    padding-bottom: 1vw;
+    padding-top: 3vw;
+    padding-bottom: 3.5vw;
         
   
 }
@@ -120,7 +120,7 @@ marquee {
 
 .centered {
   position: absolute;
-  top: 86%;
+  top: 88%;
   left: 35%;
     right: -67%;
  

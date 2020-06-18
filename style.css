@@ -77,7 +77,7 @@ marquee {
 
 
 .name1 {
-    margin-top: -20vw;
+    margin-top: -40vw;
     margin-right: -3vw;
     font-family:Freestyle Script;
     font-size: 4vw;
@@ -88,7 +88,7 @@ marquee {
 
 .name2 {
     margin-left: -16vw;
-    margin-top: -10vw;
+    margin-top: -20vw;
     font-family:Freestyle Script;
     font-size: 4vw;
     color: red;
@@ -99,7 +99,7 @@ marquee {
 .name3 {
     
     margin-right: -16vw;
-    margin-top: -1vw;
+    margin-top: -5vw;
        font-family:Freestyle Script;
     font-size: 4vw;
     color: red;

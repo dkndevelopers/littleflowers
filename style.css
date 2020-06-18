@@ -121,7 +121,8 @@ marquee {
 .centered {
   position: absolute;
   top: 88%;
-  left: 50%;
+  left: 0%;
+     right:-100%;
   
  
   transform: translate(-50%, -50%);

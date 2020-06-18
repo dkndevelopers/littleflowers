@@ -80,10 +80,10 @@ marquee {
 
 
 .name1 {
-   margin-top: -26vw;
+   margin-top: -23vw;
     margin-left: 4vw;
     font-family:Freestyle Script;
-    font-size: 3vw;
+    font-size: 2vw;
     color: black;
     text-shadow: 1px 1px white;
 }
@@ -91,9 +91,9 @@ marquee {
 
 .name2 {
   margin-right: 11vw;
-    margin-top: 0vw;
+    margin-top: -1vwvw;
     font-family:Freestyle Script;
-    font-size: 3vw;
+    font-size: 2vw;
     color: black;
     text-shadow: 1px 1px white;
 }
@@ -102,9 +102,9 @@ marquee {
 .name3 {
     
     margin-left: 18vw;
-    margin-top: -3vw;
+    margin-top: -2vw;
     font-family:Freestyle Script;
-    font-size: 3vw;
+    font-size: 2vw;
     color: black;
     text-shadow: 1px 1px white;
 }

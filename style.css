@@ -71,8 +71,10 @@ marquee {
     margin-right: auto;
     text-align: center;
     margin-top: 10vw;
-    background-color: #996633;
-  
+    background-color: #cc9900;
+    padding-bottom: 30vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
     
 }
 

@@ -61,7 +61,7 @@ marquee {
    background-color: #996633;
     padding-top: 3vw;
     padding-bottom: 3.5vw;
-        
+       overflow:hidden; 
   
 }
 
@@ -115,6 +115,7 @@ marquee {
     text-shadow: 1px 1px black;
     font-size: 1vw;
     margin-top: -15vw;
+     overflow:hidden;
 }
 
 .centered {
@@ -124,6 +125,7 @@ marquee {
   right: -67%;
  
   transform: translate(-50%, -50%);
+     overflow:hidden;
 }
 
 

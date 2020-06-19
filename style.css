@@ -152,7 +152,29 @@ marquee {
 }
 
 
+.score1 {
+    margin-top: 17vw;
+    margin-left: 3.3vw;
+    font-family: cursive;
+    font-size: 1vw;
+}
 
+
+.score2 {
+    margin-top: -1.5vw;
+    margin-right: 10vw;
+     font-family: cursive;
+    font-size: 1vw;
+}
+
+
+.score3 {
+    margin-left: 17vw;
+    margin-top: -1.3vw;
+    font-family: cursive;
+    font-size: 1vw;
+    
+}
 
 
   @media screen and (max-width: 600px) {
